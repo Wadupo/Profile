@@ -12,7 +12,7 @@
 
 **Bachelor of Computer Science**  
 **Current GPA:** 3.97 
-**Favorite Study Area:** Front End Programming Development  
+**Favorite Study Area:** Front End Programming Development 
 *2022-2025*
 
 ---
