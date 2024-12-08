@@ -1,2 +1,2 @@
-# testrepo
-Repositories testing
+# Testing Repositories
+First time creating repositories using github.
