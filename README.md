@@ -31,6 +31,16 @@ I am a 22-year-old former computer store employee who graduated with a Bachelorâ
 - **Database Management**
 
 ---
+
+## ðŸŽ¨ Hobbies/Interests
+
+- Playing Games  
+- Music  
+- Movies  
+- Volleyball  
+
+---
+
 # My Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wadupo&show_icons=true&theme=radical)
@@ -40,9 +50,4 @@ I am a 22-year-old former computer store employee who graduated with a Bachelorâ
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wadupo&theme=radical)
 
 
-## ðŸŽ¨ Hobbies/Interests
 
-- Playing Games  
-- Music  
-- Movies  
-- Volleyball  
